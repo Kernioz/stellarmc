@@ -1,0 +1,17 @@
+name: StellarCore2
+author: Kernioz
+main: fr.kernioz.Evania
+version: 1.0
+commands:
+  lag:
+  l:
+  login:
+  register:
+  reg:
+  sponsor:
+  tp:
+  tph:
+  mod:
+  unregister:
+  basics:
+  slow:

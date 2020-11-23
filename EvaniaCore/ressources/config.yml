@@ -1,0 +1,72 @@
+kernioz:
+  redis-server:
+    host: "localhost"
+    password: "elaryarabbit"
+
+  server-send: "factions"
+  ranks:
+    Fondateur:
+      prefix: ""
+      tab: ""
+      permissions: []
+    Admin:
+      prefix: ""
+      tab: ""
+      permissions: []
+    Responsable:
+      prefix: ""
+      tab: ""
+      permissions: []
+    Modérateur:
+      prefix: ""
+      tab: ""
+      permissions: []
+    Guide:
+      prefix: ""
+      tab: ""
+      permissions: []
+    Partenaire:
+      prefix: ""
+      tab: ""
+      permissions: []
+    Youtubeur:
+      prefix: ""
+      tab: ""
+      permissions: []
+    Demon:
+      prefix: ""
+      tab: ""
+      permissions: []
+    Ange:
+      prefix: ""
+      tab: ""
+      permissions: []
+    Roi:
+      prefix: ""
+      tab: ""
+      permissions: []
+    Prince:
+      prefix: ""
+      tab: ""
+      permissions: []
+    Duc:
+      prefix: ""
+      tab: ""
+      permissions: []
+    Mage:
+      prefix: ""
+      tab: ""
+      permissions: []
+    Chevalier:
+      prefix: ""
+      tab: ""
+      permissions: []
+    Ecuyer:
+      prefix: ""
+      tab: ""
+      permissions: []
+    Joueur:
+      prefix: ""
+      tab: ""
+      permissions: []
+

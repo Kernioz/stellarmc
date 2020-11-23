@@ -1,0 +1,30 @@
+kernioz:
+  spawn-location: "0.518, 100, 0.08, 1.4, -2.4"
+
+
+  message:
+    welcome: "§8» §7Bienvenue §e%player% §7sur &bStellarMC §7!"
+
+    player-join: "§8[§a+§8] §7%player%"
+    player-quit: "§8[§c-§8] §7%player%"
+
+
+  holographics:
+    bienvenue:
+      - "§e================================"
+      - "§f§lBienvenue sur §d§lWarnfight"
+      - "§f§lCertaines §dfonctionnalités §f§lne sont §c§lpas"
+      - "§c§ldisponible §f§lpendant cette §a§lbêta"
+      - "§e================================"
+      - "§aCLIC DROIT pour rejoindre le §6discord§a."
+      - "§r"
+      - "§bLE MEILLEUR PVPFACTIONS WARNFIGHT"
+    warzone:
+      - "§e================================"
+      - "§fLa perte de power est §cdésactivé §fdans la §4WarZone§f."
+      - "§r"
+      - "§fPvP: §a✔"
+      - "§fBuild: §c✘"
+      - "§b"
+      - "§fLimite de map: §e30 000x30 000"
+      - "§e================================"

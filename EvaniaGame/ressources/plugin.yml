@@ -1,0 +1,10 @@
+name: kerniozGAME
+author: Kernioz
+main: fr.kernioz.StellarGame
+version: 1.0
+commands:
+  kit:
+  kits:
+depend:
+  - StellarCore2
+
